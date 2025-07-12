@@ -56,7 +56,7 @@ Frontend developer passionate about creating intuitive and modern web experience
 ### **CARS WORLD WIDE - Sitio Web**  
 🗓️ Ago 2024 - Oct 2024  
 🛠️ HTML, CSS, JavaScript, Bootstrap  
-🌐 [carsworldwide.netlify.app](https://carsworldwide.netlify.app)  
+🌐 Enlace al proyecto](https://carsworldwide.netlify.app)  
 
 Sitio web informativo que presenta un catálogo de automóviles clasificados por categorías, desde modelos económicos hasta vehículos premium. Cada ficha incluye detalles técnicos, descripciones y precios. El proyecto incluye formularios funcionales de contacto y ventas. Estilos personalizados combinados con componentes Bootstrap para una interfaz moderna y responsiva.
 
@@ -65,7 +65,7 @@ Sitio web informativo que presenta un catálogo de automóviles clasificados por
 ### **STEEL BLOCK**  
 🗓️ Nov 2024 - Ene 2025  
 🛠️ HTML, CSS, JavaScript (vanilla)  
-🌐 [steelblock.vercel.app](https://steelblock.vercel.app)  
+🌐 [Enlace al proyecto](https://steelblock.vercel.app)  
 
 Aplicación web para una empresa constructora, diseñada para mostrar servicios y proyectos destacados. Incluye una herramienta interactiva que permite generar presupuestos online personalizados según parámetros ingresados. Desarrollo de lógica con JavaScript puro, integrando programación síncrona y asíncrona para robustecer habilidades.
 
@@ -74,7 +74,7 @@ Aplicación web para una empresa constructora, diseñada para mostrar servicios 
 ### **STEEL BLOCK GENERATOR**  
 🗓️ Ene 2025 - Feb 2025  
 🛠️ Python, Streamlit, OpenAI API  
-📂 [GitHub Repository](https://github.com/ImanolPeralta/Steel-Block-Generator-)  
+📂 [Enlace al proyecto](https://github.com/ImanolPeralta/Steel-Block-Generator-)  
 
 App basada en IA para generación automática de diseños de viviendas. Mediante parámetros ingresados por el usuario, crea descripciones personalizadas y dos representaciones visuales: planta 2D y perspectiva 3D. Integra modelos de IA texto-a-texto y texto-a-imagen usando la API de OpenAI. Explora la aplicación de IA al diseño arquitectónico.
 
@@ -83,7 +83,7 @@ App basada en IA para generación automática de diseños de viviendas. Mediante
 ### **AI GAME CHARACTER GENERATOR**  
 🗓️ Ene 2025 - Feb 2025  
 🛠️ Python, Jupyter Notebook, OpenAI API (GPT-4 + DALL·E)  
-📂 [GitHub Repository](https://github.com/ImanolPeralta/Generador-de-Personajes-para-Ubisoft)  
+📂 [Enlace al proyecto](https://github.com/ImanolPeralta/Generador-de-Personajes-para-Ubisoft)  
 
 Proyecto experimental que genera personajes para videojuegos mediante IA. El usuario completa un formulario con título, temática, rasgos físicos y personalidad. La app produce una descripción profesional y una imagen 4K del personaje con modelos IA. Desplegado en Jupyter Notebook para facilitar ejecución y pruebas.
 
@@ -92,7 +92,7 @@ Proyecto experimental que genera personajes para videojuegos mediante IA. El usu
 ### **Sistema de Facturación (API REST)**  
 🗓️ Mar 2025 - May 2025  
 🛠️ Java, Spring Boot, JPA, SQL  
-📂 [GitHub Repository](https://github.com/ImanolPeralta/Facturacion-Entrega-Proyecto-Final-Peralta)  
+📂 [Enlace al proyecto](https://github.com/ImanolPeralta/Facturacion-Entrega-Proyecto-Final-Peralta)  
 
 API RESTful para gestión de operaciones de facturación con base de datos SQL. Arquitectura en tres capas (Controller, Service, Repository) y programación orientada a objetos. Proyecto clave para consolidar conocimientos en Java, Spring Boot y diseño de APIs empresariales.
 
@@ -101,7 +101,7 @@ API RESTful para gestión de operaciones de facturación con base de datos SQL. 
 ### **THE DEV STORE – E-Commerce Web App**  
 🗓️ Mar 2025 - May 2025  
 🛠️ React JS, Firestore (Firebase), JavaScript  
-🌐 [imanolperalta.github.io/The-Dev-Store-PF-ReactJS/](https://imanolperalta.github.io/The-Dev-Store-PF-ReactJS/)  
+🌐 [Enlace al proyecto](https://imanolperalta.github.io/The-Dev-Store-PF-ReactJS/)  
 
 Aplicación de comercio electrónico con React JS y Firestore para manejo de productos y operaciones en tiempo real. Incluye navegación por categorías, carrito de compras y filtros dinámicos. Fortaleció habilidades en desarrollo modular, gestión de estados y consumo de bases de datos en vivo.
 
@@ -110,7 +110,7 @@ Aplicación de comercio electrónico con React JS y Firestore para manejo de pro
 ### **MUSICIANPRO – E-Commerce de Instrumentos Musicales**  
 🗓️ May 2025 – Jul 2025  
 🛠️ React JS, Firebase, Tailwind CSS, JavaScript  
-🌐 [[Enlace al proyecto o repositorio](https://musicianpro.vercel.app/)]  
+🌐 [[Enlace al proyecto](https://musicianpro.vercel.app/)]  
 
 Plataforma de comercio electrónico especializada en instrumentos musicales (cordófonos, aerófonos, percusión y electrófonos). Incluye navbar con menús desplegables, slider automático, cards de productos en 4 columnas y footer con categorías. Funcionalidades administrativas para CRUD de productos y autenticación de usuarios (login/logout). Diseño responsivo adaptado para desktop y mobile.
 
