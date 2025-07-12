@@ -1,20 +1,18 @@
-# 👋 Hola, soy Imanol Augusto Peralta
+# 👋 Hello, I am Imanol Augusto Peralta.
 
-🎸 Desarrollador Frontend | Apasionado por la tecnología, la música y el aprendizaje constante.
+💻 Frontend Developer | Passionate about technology, software development, and efficient solutions.
 
-Soy de Resistencia, Chaco, Argentina. Actualmente finalizando una diplomatura en **Desarrollo Frontend en Coderhouse** y trabajando en proyectos reales como **MusicianPro**, un e-commerce autoadministrable de instrumentos musicales hecho con **Next.js** y **Firebase**.
+Frontend developer passionate about creating intuitive and modern web experiences. With experience in React.js, Next.js, and Firebase, I aim to transform ideas into functional and scalable applications. Always learning and open to new challenges.
 
 ---
 
-## 🚀 Tecnologías que uso
+## 🚀 Programming Languages
 
-[![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+
+## 🚀 
 
 ---
 
