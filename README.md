@@ -108,9 +108,9 @@ Aplicación de comercio electrónico con React JS y Firestore para manejo de pro
 ---
 
 ### **MUSICIANPRO – E-Commerce de Instrumentos Musicales**  
-🗓️ [Fecha de inicio] – [Fecha de fin]  
+🗓️ May 2025 – Jul 2025  
 🛠️ React JS, Firebase, Tailwind CSS, JavaScript  
-🌐 [Enlace al proyecto o repositorio]  
+🌐 [[Enlace al proyecto o repositorio](https://musicianpro.vercel.app/)]  
 
 Plataforma de comercio electrónico especializada en instrumentos musicales (cordófonos, aerófonos, percusión y electrófonos). Incluye navbar con menús desplegables, slider automático, cards de productos en 4 columnas y footer con categorías. Funcionalidades administrativas para CRUD de productos y autenticación de usuarios (login/logout). Diseño responsivo adaptado para desktop y mobile.
 
