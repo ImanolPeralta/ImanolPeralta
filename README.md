@@ -56,7 +56,7 @@ Frontend developer passionate about creating intuitive and modern web experience
 ### **CARS WORLD WIDE - Sitio Web**  
 🗓️ Ago 2024 - Oct 2024  
 🛠️ HTML, CSS, JavaScript, Bootstrap  
-🌐 Enlace al proyecto](https://carsworldwide.netlify.app)  
+🌐 [Enlace al proyecto](https://carsworldwide.netlify.app)  
 
 Sitio web informativo que presenta un catálogo de automóviles clasificados por categorías, desde modelos económicos hasta vehículos premium. Cada ficha incluye detalles técnicos, descripciones y precios. El proyecto incluye formularios funcionales de contacto y ventas. Estilos personalizados combinados con componentes Bootstrap para una interfaz moderna y responsiva.
 
