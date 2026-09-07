@@ -1,41 +1,35 @@
-<div align="center">
-
 # IMANOL AUGUSTO PERALTA
 
-### Software Developer
+### Software Developer · Full Stack Web Development
 
-Building modern web applications with a strong foundation in **Full Stack Web Development**, focused on JavaScript, React, Next.js, and Node.js.
-
-**Chaco, Argentina**
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+<p align="center">
+  <strong>Building modern web applications with JavaScript, React, Next.js, and Node.js.</strong>
 </p>
 
-</div>
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#focus">Focus</a> ·
+  <a href="#stack">Stack</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#education">Education</a> ·
+  <a href="#principles">Principles</a> ·
+  <a href="#connect">Connect</a>
+</p>
 
 ---
 
+<a id="about"></a>
+
 ## About
 
-I'm a **Software Developer** with a foundation in Full Stack Web Development and professional experience in technical support.
+I'm a **Software Developer** from **Chaco, Argentina**, with a foundation in Full Stack Web Development and professional experience in technical support.
 
-My primary development stack is built around **JavaScript, React, Next.js, and Node.js**, with experience building responsive web applications, REST APIs, authentication flows, CRUD functionality, and component-based interfaces.
+I build modern web applications with a primary focus on **JavaScript, React, Next.js, and Node.js**, working across frontend interfaces, backend APIs, authentication, CRUD operations, databases, and responsive user experiences.
 
-I'm currently pursuing a **Bachelor of Science in Software Development at Brigham Young University–Idaho**, while expanding my knowledge of **Python, backend development, and AI-assisted software development**.
+I'm currently pursuing a **Bachelor of Science in Software Development at Brigham Young University–Idaho**, while expanding my knowledge of **Python, backend development, software engineering, and AI-assisted development**.
 
-My professional path combines technical support, software development, and continuous learning:
+My professional path has developed progressively:
 
 ```text
 Technical Support
@@ -44,79 +38,61 @@ Full Stack Web Development
        ↓
 Software Development Degree
        ↓
-Python + AI-assisted Development
+Python + Backend Engineering
+       ↓
+AI-assisted Development
 ```
 
-I approach development with a focus on **problem solving, clean solutions, usability, maintainability, and continuous improvement**.
+I approach software development through **problem solving, clean solutions, usability, maintainability, and continuous improvement**.
 
 ---
 
-## Tech Stack
+<a id="focus"></a>
 
-### Languages
+## Current Focus
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java">
-</p>
+| Area          | Focus                                               |
+| ------------- | --------------------------------------------------- |
+| **BUILDING**  | React · Next.js · Full Stack Web Development        |
+| **LEARNING**  | Python · Backend Development · Software Engineering |
+| **EXPLORING** | AI-assisted Development · AI Development Tools      |
+| **IMPROVING** | English Communication · Technical Communication     |
 
-### Frontend
+I'm particularly interested in understanding how modern development workflows can combine **strong engineering fundamentals with AI-powered tools** without sacrificing code quality or maintainability.
 
-<p>
-  <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js">
-  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/Sass-0A0A0A?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-0A0A0A?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
-</p>
+---
 
-### Backend
+<a id="stack"></a>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-0A0A0A?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js">
-  <img src="https://img.shields.io/badge/Spring_Boot-0A0A0A?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot">
-</p>
+## Core Stack
 
-### Databases & Services
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
-  <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase">
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-0A0A0A?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/NPM-0A0A0A?style=flat-square&logo=npm&logoColor=CB3837" alt="NPM">
-</p>
+| Area                     | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**            | ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?logo=javascript\&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-0A0A0A?logo=python\&logoColor=3776AB) ![Java](https://img.shields.io/badge/Java-0A0A0A?logo=openjdk\&logoColor=ED8B00)                                                                                                                                                                      |
+| **Frontend**             | ![React](https://img.shields.io/badge/React-0A0A0A?logo=react\&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?logo=nextdotjs\&logoColor=FFFFFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?logo=tailwindcss\&logoColor=06B6D4) ![HTML](https://img.shields.io/badge/HTML-0A0A0A?logo=html5\&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-0A0A0A?logo=css3\&logoColor=1572B6) |
+| **Backend**              | ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?logo=nodedotjs\&logoColor=5FA04E) ![Express](https://img.shields.io/badge/Express.js-0A0A0A?logo=express\&logoColor=FFFFFF) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0A0A?logo=springboot\&logoColor=6DB33F)                                                                                                                                                      |
+| **Databases & Services** | ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?logo=mongodb\&logoColor=47A248) ![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?logo=mysql\&logoColor=4479A1) ![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?logo=firebase\&logoColor=FFCA28)                                                                                                                                                                         |
+| **Tools**                | ![Git](https://img.shields.io/badge/Git-0A0A0A?logo=git\&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?logo=github\&logoColor=FFFFFF) ![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?logo=visualstudiocode\&logoColor=007ACC) ![Docker](https://img.shields.io/badge/Docker-0A0A0A?logo=docker\&logoColor=2496ED)                                                                                        |
 
 ### Development Knowledge
 
-`REST APIs` · `CRUD` · `Authentication` · `Responsive Design` · `Component-Based Development` · `UX/UI` · `Full Stack Web Development`
+`REST APIs` · `CRUD` · `Authentication` · `Responsive Design` · `Component-Based Development` · `UX/UI` · `Full Stack Development`
 
 ---
 
-## Featured Projects
+<a id="projects"></a>
 
-### MusicianPro
+## Selected Projects
 
-**Musical Instruments E-commerce**
+### MusicianPro — Musical Instruments E-commerce
 
-A responsive e-commerce application designed around product discovery, authentication, shopping workflows, and administrative management.
+A responsive e-commerce application focused on product discovery, authentication, shopping workflows, and administrative management.
 
 **Stack**
 
 `Next.js` `Firebase` `Tailwind CSS` `Context API`
 
-**Key Features**
+**Highlights**
 
 * Product browsing and discovery
 * Shopping cart functionality
@@ -131,9 +107,7 @@ A responsive e-commerce application designed around product discovery, authentic
 
 ---
 
-### The Dev Store
-
-**Electronics E-commerce**
+### The Dev Store — Electronics E-commerce
 
 A single-page e-commerce application focused on product discovery, efficient navigation, client-side state management, and a streamlined checkout experience.
 
@@ -141,12 +115,12 @@ A single-page e-commerce application focused on product discovery, efficient nav
 
 `React` `Vite` `Context API`
 
-**Key Features**
+**Highlights**
 
 * Dynamic product filtering
 * Client-side state management
 * Fast SPA navigation
-* Improved checkout flow
+* Streamlined checkout flow
 * Approximately **30% reduction in checkout steps**
 
 **Repository:** `YOUR_DEV_STORE_REPOSITORY_URL`
@@ -155,9 +129,7 @@ A single-page e-commerce application focused on product discovery, efficient nav
 
 ---
 
-### Steel Block
-
-**Budget Simulator**
+### Steel Block — Budget Simulator
 
 An interactive web application that performs real-time calculations and presents immediate results through a responsive interface.
 
@@ -165,7 +137,7 @@ An interactive web application that performs real-time calculations and presents
 
 `HTML` `CSS` `JavaScript`
 
-**Key Features**
+**Highlights**
 
 * Real-time calculations
 * Immediate result feedback
@@ -178,134 +150,124 @@ An interactive web application that performs real-time calculations and presents
 
 ---
 
+<a id="experience"></a>
+
 ## Experience
 
-### Apex América
+| Period             | Role & Impact                                                                                                                                                                                                                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **2021 — Present** | **Technical Support Specialist · Apex América** — Troubleshooting software and hardware issues, performing technical diagnosis and root-cause analysis, resolving problems for technical and non-technical users, managing multiple cases, and communicating technical information clearly. |
 
-**Technical Support Specialist**
-`2021 – Present · Chaco, Argentina`
+My experience in technical support has strengthened the skills I now apply to software development:
 
-Professional technical-support experience in a high-volume environment, developing skills that directly transfer to software development and engineering workflows.
+`Problem Solving` · `Technical Diagnosis` · `Analytical Thinking` · `Communication` · `Incident Management` · `User-Centered Thinking`
 
-* Troubleshoot software and hardware issues systematically
-* Perform root-cause analysis and technical diagnosis
-* Resolve technical problems for technical and non-technical users
-* Manage multiple cases while prioritizing according to urgency and objectives
-* Communicate technical information clearly to different audiences
-* Work within performance objectives and structured operational processes
-* Develop structured problem-solving and incident-management skills
-
-> While this is a technical-support position rather than a software-engineering role, it has strengthened the diagnostic, analytical, communication, and problem-solving skills I bring into software development.
+While my current professional role is in technical support rather than software engineering, it has given me a strong foundation in **diagnosis, structured problem solving, communication, and working with real users and technical problems**.
 
 ---
+
+<a id="education"></a>
 
 ## Education
 
 ### Brigham Young University–Idaho
 
 **Bachelor of Science in Software Development**
-`2026 – 2030 · Expected`
 
-Currently developing a broader software-development foundation while expanding into Python and modern software-development practices.
+`2026 — 2030 · Expected`
+
+Currently building a broader software-development foundation while expanding into Python, backend development, and modern software-engineering practices.
+
+---
 
 ### Coderhouse
 
 **Full Stack Web Development Diploma**
-`2024 – 2026`
 
-Focused on modern web development, frontend and backend technologies, databases, APIs, and application development.
+`2024 — 2026`
+
+Focused on modern web development, frontend and backend technologies, databases, APIs, authentication, and application development.
+
+---
 
 ### National University of the Northeast
 
 **Architecture**
-`2019 – 2024`
+
+`2019 — 2024`
 
 Developed analytical thinking, design thinking, problem solving, attention to detail, and structured approaches to complex projects.
 
 ---
 
-## Current Focus
+<a id="principles"></a>
 
-My current learning is organized around expanding from web development into broader software development.
+## Engineering Principles
 
-| Area           | Focus                                                               |
-| -------------- | ------------------------------------------------------------------- |
-| **CURRENT**    | Software Development · React · Next.js · Full Stack Web Development |
-| **LEARNING**   | Python · Backend Development · Software Engineering                 |
-| **EXPLORING**  | AI-assisted Development · AI Development Tools                      |
-| **CONTINUOUS** | English Communication · Technical Communication                     |
-
-I'm particularly interested in understanding how modern development workflows can combine strong engineering fundamentals with AI-powered tools without sacrificing code quality or maintainability.
-
----
-
-## Professional Profile
-
-```text
-Software Development
-        │
-        ├── Frontend
-        │   ├── React
-        │   ├── Next.js
-        │   └── Tailwind CSS
-        │
-        ├── Backend
-        │   ├── Node.js
-        │   ├── Express.js
-        │   └── Spring Boot
-        │
-        ├── Data
-        │   ├── MongoDB
-        │   ├── MySQL
-        │   └── Firebase
-        │
-        └── Expanding
-            ├── Python
-            └── AI-assisted Development
-```
-
-**English:** B2+ · Actively improving professional communication and fluency.
+| Principle                 | What it means to me                                                              |
+| ------------------------- | -------------------------------------------------------------------------------- |
+| **Keep it simple**        | Prefer understandable solutions over unnecessary complexity.                     |
+| **Solve the problem**     | Understand the actual problem before choosing the technology.                    |
+| **Build for users**       | Technical decisions should ultimately improve the user's experience.             |
+| **Learn continuously**    | Software evolves quickly, so continuous learning is part of engineering.         |
+| **Use AI responsibly**    | AI can accelerate development, but understanding the code remains essential.     |
+| **Improve incrementally** | Small, consistent improvements lead to stronger software and stronger engineers. |
 
 ---
+
+<a id="github"></a>
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF" alt="GitHub statistics">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark"
+    alt="Imanol Peralta GitHub contribution activity"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=A1A1AA" alt="Top programming languages">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=github_dark"
+    alt="Imanol Peralta GitHub statistics"
+    width="49%"
+  />
+
+<img
+ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark"
+ alt="Imanol Peralta GitHub repositories by language"
+ width="49%"
+/>
+
 </p>
 
 ---
 
-## Let's Connect
+<a id="connect"></a>
+
+## Let's Build Something Useful
 
 I'm open to opportunities where I can contribute as a **Software Developer**, continue growing as an engineer, and build useful, reliable software.
 
-<div align="center">
+My goal is to continue evolving from **Full Stack Web Development into broader Software Engineering**, while combining strong fundamentals with modern development tools.
 
-### Interested in building something useful?
-
-<p>
+<p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Let's_connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"
+      alt="Connect with Imanol Peralta on LinkedIn"
+    />
   </a>
+
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio">
-  </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email">
+    <img
+      src="https://img.shields.io/badge/Portfolio-View_my_work-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000"
+      alt="View Imanol Peralta's portfolio"
+    />
   </a>
 </p>
 
-</div>
-
----
-
-<div align="center">
-
-<sub>Software Developer · Full Stack Web Development · JavaScript · React · Next.js · Node.js · Python</sub>
-
-</div>
+<p align="center">
+  <sub>Software Developer · Full Stack Web Development · JavaScript · React · Next.js · Node.js · Python</sub>
+</p>
