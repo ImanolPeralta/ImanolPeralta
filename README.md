@@ -1,136 +1,311 @@
-# 👋 Hello, I am Imanol Augusto Peralta.
+<div align="center">
 
-💻 Frontend Developer | Passionate about technology, software development, and efficient solutions.
+# IMANOL AUGUSTO PERALTA
 
-Frontend developer passionate about creating intuitive and modern web experiences. With experience in React.js, Next.js, and Firebase, I aim to transform ideas into functional and scalable applications. Always learning and open to new challenges.
+### Software Developer
 
----
+Building modern web applications with a strong foundation in **Full Stack Web Development**, focused on JavaScript, React, Next.js, and Node.js.
 
-## 🚀 Programming Languages
+**Chaco, Argentina**
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-## 📝 Languages and Markup
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-
-## 🧩 Front-end Frameworks and Libraries
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-## 🎨 Design and UX/UI
-
-[![Responsive Design](https://img.shields.io/badge/Responsive_Design-00ADEF?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
-## 🗄️ Databases
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-
-## 🛠️ Development Tools
-
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-
-## 🔙 Backend
-
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-
+</div>
 
 ---
 
-## 📂 Algunos de mis proyectos destacados
+## About
 
-### **CARS WORLD WIDE - Sitio Web**  
-🗓️ Ago 2024 - Oct 2024  
-🛠️ HTML, CSS, JavaScript, Bootstrap  
-🌐 [Enlace al proyecto](https://carsworldwide.netlify.app)  
+I'm a **Software Developer** with a foundation in Full Stack Web Development and professional experience in technical support.
 
-Sitio web informativo que presenta un catálogo de automóviles clasificados por categorías, desde modelos económicos hasta vehículos premium. Cada ficha incluye detalles técnicos, descripciones y precios. El proyecto incluye formularios funcionales de contacto y ventas. Estilos personalizados combinados con componentes Bootstrap para una interfaz moderna y responsiva.
+My primary development stack is built around **JavaScript, React, Next.js, and Node.js**, with experience building responsive web applications, REST APIs, authentication flows, CRUD functionality, and component-based interfaces.
 
----
+I'm currently pursuing a **Bachelor of Science in Software Development at Brigham Young University–Idaho**, while expanding my knowledge of **Python, backend development, and AI-assisted software development**.
 
-### **STEEL BLOCK**  
-🗓️ Nov 2024 - Ene 2025  
-🛠️ HTML, CSS, JavaScript (vanilla)  
-🌐 [Enlace al proyecto](https://steelblock.vercel.app)  
+My professional path combines technical support, software development, and continuous learning:
 
-Aplicación web para una empresa constructora, diseñada para mostrar servicios y proyectos destacados. Incluye una herramienta interactiva que permite generar presupuestos online personalizados según parámetros ingresados. Desarrollo de lógica con JavaScript puro, integrando programación síncrona y asíncrona para robustecer habilidades.
+```text
+Technical Support
+       ↓
+Full Stack Web Development
+       ↓
+Software Development Degree
+       ↓
+Python + AI-assisted Development
+```
 
----
-
-### **STEEL BLOCK GENERATOR**  
-🗓️ Ene 2025 - Feb 2025  
-🛠️ Python, Streamlit, OpenAI API  
-📂 [Enlace al proyecto](https://github.com/ImanolPeralta/Steel-Block-Generator-)  
-
-App basada en IA para generación automática de diseños de viviendas. Mediante parámetros ingresados por el usuario, crea descripciones personalizadas y dos representaciones visuales: planta 2D y perspectiva 3D. Integra modelos de IA texto-a-texto y texto-a-imagen usando la API de OpenAI. Explora la aplicación de IA al diseño arquitectónico.
+I approach development with a focus on **problem solving, clean solutions, usability, maintainability, and continuous improvement**.
 
 ---
 
-### **AI GAME CHARACTER GENERATOR**  
-🗓️ Ene 2025 - Feb 2025  
-🛠️ Python, Jupyter Notebook, OpenAI API (GPT-4 + DALL·E)  
-📂 [Enlace al proyecto](https://github.com/ImanolPeralta/Generador-de-Personajes-para-Ubisoft)  
+## Tech Stack
 
-Proyecto experimental que genera personajes para videojuegos mediante IA. El usuario completa un formulario con título, temática, rasgos físicos y personalidad. La app produce una descripción profesional y una imagen 4K del personaje con modelos IA. Desplegado en Jupyter Notebook para facilitar ejecución y pruebas.
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java">
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js">
+  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/Sass-0A0A0A?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-0A0A0A?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-0A0A0A?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js">
+  <img src="https://img.shields.io/badge/Spring_Boot-0A0A0A?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot">
+</p>
+
+### Databases & Services
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
+  <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase">
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-0A0A0A?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/NPM-0A0A0A?style=flat-square&logo=npm&logoColor=CB3837" alt="NPM">
+</p>
+
+### Development Knowledge
+
+`REST APIs` · `CRUD` · `Authentication` · `Responsive Design` · `Component-Based Development` · `UX/UI` · `Full Stack Web Development`
 
 ---
 
-### **Sistema de Facturación (API REST)**  
-🗓️ Mar 2025 - May 2025  
-🛠️ Java, Spring Boot, JPA, SQL  
-📂 [Enlace al proyecto](https://github.com/ImanolPeralta/Facturacion-Entrega-Proyecto-Final-Peralta)  
+## Featured Projects
 
-API RESTful para gestión de operaciones de facturación con base de datos SQL. Arquitectura en tres capas (Controller, Service, Repository) y programación orientada a objetos. Proyecto clave para consolidar conocimientos en Java, Spring Boot y diseño de APIs empresariales.
+### MusicianPro
 
----
+**Musical Instruments E-commerce**
 
-### **THE DEV STORE – E-Commerce Web App**  
-🗓️ Mar 2025 - May 2025  
-🛠️ React JS, Firestore (Firebase), JavaScript  
-🌐 [Enlace al proyecto](https://imanolperalta.github.io/The-Dev-Store-PF-ReactJS/)  
+A responsive e-commerce application designed around product discovery, authentication, shopping workflows, and administrative management.
 
-Aplicación de comercio electrónico con React JS y Firestore para manejo de productos y operaciones en tiempo real. Incluye navegación por categorías, carrito de compras y filtros dinámicos. Fortaleció habilidades en desarrollo modular, gestión de estados y consumo de bases de datos en vivo.
+**Stack**
 
----
+`Next.js` `Firebase` `Tailwind CSS` `Context API`
 
-### **MUSICIANPRO – E-Commerce de Instrumentos Musicales**  
-🗓️ May 2025 – Jul 2025  
-🛠️ React JS, Firebase, Tailwind CSS, JavaScript  
-🌐 [Enlace al proyecto](https://musicianpro.vercel.app/)
+**Key Features**
 
-Plataforma de comercio electrónico especializada en instrumentos musicales (cordófonos, aerófonos, percusión y electrófonos). Incluye navbar con menús desplegables, slider automático, cards de productos en 4 columnas y footer con categorías. Funcionalidades administrativas para CRUD de productos y autenticación de usuarios (login/logout). Diseño responsivo adaptado para desktop y mobile.
+* Product browsing and discovery
+* Shopping cart functionality
+* Firebase authentication
+* Administrative panel
+* CRUD operations
+* Responsive, mobile-first interface
 
----
+**Repository:** `YOUR_MUSICIANPRO_REPOSITORY_URL`
 
-## 📊 GitHub Stats
-
-![Imanol's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImanolPeralta&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImanolPeralta&layout=compact&theme=tokyonight)
+**Live Demo:** `YOUR_MUSICIANPRO_LIVE_URL`
 
 ---
 
-## 📫 Contacto
+### The Dev Store
 
-- 📧 imanolaugusto18@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/imanol-augusto-peralta)  
-- 🌐 [Portfolio](https://imanolperalta.github.io)  
-- 💻 [GitHub](https://github.com/ImanolPeralta)
+**Electronics E-commerce**
+
+A single-page e-commerce application focused on product discovery, efficient navigation, client-side state management, and a streamlined checkout experience.
+
+**Stack**
+
+`React` `Vite` `Context API`
+
+**Key Features**
+
+* Dynamic product filtering
+* Client-side state management
+* Fast SPA navigation
+* Improved checkout flow
+* Approximately **30% reduction in checkout steps**
+
+**Repository:** `YOUR_DEV_STORE_REPOSITORY_URL`
+
+**Live Demo:** `YOUR_DEV_STORE_LIVE_URL`
 
 ---
 
-> _"La mejor manera de aprender es creando."_ 🚀  
-Gracias por visitar mi perfil. ¡Seguimos conectados!
+### Steel Block
+
+**Budget Simulator**
+
+An interactive web application that performs real-time calculations and presents immediate results through a responsive interface.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+**Key Features**
+
+* Real-time calculations
+* Immediate result feedback
+* Responsive interface
+* Client-side interaction
+
+**Repository:** `YOUR_STEEL_BLOCK_REPOSITORY_URL`
+
+**Live Demo:** `YOUR_STEEL_BLOCK_LIVE_URL`
+
+---
+
+## Experience
+
+### Apex América
+
+**Technical Support Specialist**
+`2021 – Present · Chaco, Argentina`
+
+Professional technical-support experience in a high-volume environment, developing skills that directly transfer to software development and engineering workflows.
+
+* Troubleshoot software and hardware issues systematically
+* Perform root-cause analysis and technical diagnosis
+* Resolve technical problems for technical and non-technical users
+* Manage multiple cases while prioritizing according to urgency and objectives
+* Communicate technical information clearly to different audiences
+* Work within performance objectives and structured operational processes
+* Develop structured problem-solving and incident-management skills
+
+> While this is a technical-support position rather than a software-engineering role, it has strengthened the diagnostic, analytical, communication, and problem-solving skills I bring into software development.
+
+---
+
+## Education
+
+### Brigham Young University–Idaho
+
+**Bachelor of Science in Software Development**
+`2026 – 2030 · Expected`
+
+Currently developing a broader software-development foundation while expanding into Python and modern software-development practices.
+
+### Coderhouse
+
+**Full Stack Web Development Diploma**
+`2024 – 2026`
+
+Focused on modern web development, frontend and backend technologies, databases, APIs, and application development.
+
+### National University of the Northeast
+
+**Architecture**
+`2019 – 2024`
+
+Developed analytical thinking, design thinking, problem solving, attention to detail, and structured approaches to complex projects.
+
+---
+
+## Current Focus
+
+My current learning is organized around expanding from web development into broader software development.
+
+| Area           | Focus                                                               |
+| -------------- | ------------------------------------------------------------------- |
+| **CURRENT**    | Software Development · React · Next.js · Full Stack Web Development |
+| **LEARNING**   | Python · Backend Development · Software Engineering                 |
+| **EXPLORING**  | AI-assisted Development · AI Development Tools                      |
+| **CONTINUOUS** | English Communication · Technical Communication                     |
+
+I'm particularly interested in understanding how modern development workflows can combine strong engineering fundamentals with AI-powered tools without sacrificing code quality or maintainability.
+
+---
+
+## Professional Profile
+
+```text
+Software Development
+        │
+        ├── Frontend
+        │   ├── React
+        │   ├── Next.js
+        │   └── Tailwind CSS
+        │
+        ├── Backend
+        │   ├── Node.js
+        │   ├── Express.js
+        │   └── Spring Boot
+        │
+        ├── Data
+        │   ├── MongoDB
+        │   ├── MySQL
+        │   └── Firebase
+        │
+        └── Expanding
+            ├── Python
+            └── AI-assisted Development
+```
+
+**English:** B2+ · Actively improving professional communication and fluency.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF" alt="GitHub statistics">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=A1A1AA" alt="Top programming languages">
+</p>
+
+---
+
+## Let's Connect
+
+I'm open to opportunities where I can contribute as a **Software Developer**, continue growing as an engineer, and build useful, reliable software.
+
+<div align="center">
+
+### Interested in building something useful?
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio">
+  </a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email">
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Software Developer · Full Stack Web Development · JavaScript · React · Next.js · Node.js · Python</sub>
+
+</div>
